@@ -10,6 +10,7 @@ Basically it is an application for merging two playlists equally:
  - Now you are ready to press the big *save* button to merge both playlists and copy them to a folder where they will be stored in the correct order
  - Process finished, you can burn the folder containing all the merged mp3s to a CD and play it in your car!
 
+This app is written in **Python** using **PyQt4** and it is still in development. Though it is usable for its main purpose, there may be bugs.
 
 TODO
 ========
